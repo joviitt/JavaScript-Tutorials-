@@ -7,4 +7,22 @@ console.log(
 
 // ECMAscript(tc39.es) and mdn web docs(Mozilla) are some documentations we can refer for learning JS standards
 
-let name
+let name = "Jovit"
+let age = 21
+let isSingle = true
+let state = null
+let city
+/*
+DATA TYPES:
+    number,bigint(for bigger numbers,used while creating huge user-base apps)
+    boolean
+    string
+    null=> standalone value
+    undefined = unassigned value
+    symbol = uniqueness
+
+    object
+*/
+
+console.log(typeof state);
+
