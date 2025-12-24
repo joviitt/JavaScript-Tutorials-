@@ -1,0 +1,1 @@
+"use strict";  // this is not required, but its purpose is that it treats/processes all the JS CODE as the newer version of JS
