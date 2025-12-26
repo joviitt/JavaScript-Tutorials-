@@ -23,8 +23,8 @@ let stringSomeNumber = String(someNumber)
 //conversion to boolean
 let isLoggedIn = " ";
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
-console.log(typeof booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
+// console.log(typeof booleanIsLoggedIn);
 /*
 0 => false
 1 => true
