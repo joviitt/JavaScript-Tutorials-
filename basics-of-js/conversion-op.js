@@ -14,9 +14,20 @@ let valueasNum1 = Number(score1)
 
 // console.log(typeof NaN); // type of NAN is number
 
-
+//conversion of num to str
 let someNumber = 33
-
 let stringSomeNumber = String(someNumber)
+// console.log(typeof stringSomeNumber);
 
-console.log(typeof stringSomeNumber);
+
+//conversion to boolean
+let isLoggedIn = " ";
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn);
+console.log(typeof booleanIsLoggedIn);
+/*
+0 => false
+1 => true
+"" => false
+"anystring" => true
+*/
