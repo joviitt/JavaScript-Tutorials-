@@ -18,3 +18,5 @@ let valueasNum1 = Number(score1)
 let someNumber = 33
 
 let stringSomeNumber = String(someNumber)
+
+console.log(typeof stringSomeNumber);
