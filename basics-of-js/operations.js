@@ -33,11 +33,11 @@ let num1, num2 , num3
 // num1=num2=num3=2+2 // this is also bad practice as it is confusing for other devs
 
 num1 = 3
-console.log(num1++) // 
-console.log(num1)
+console.log(num1++) // this first prints the og value of num1 and then increments it ie 3
+console.log(num1)  // this prints the incremented values of num1 ie 4
 
 
 num2 = 3
-console.log(++num2)
+console.log(++num2) // this increments the value of num2 first and then prints it ie 4
 
 
