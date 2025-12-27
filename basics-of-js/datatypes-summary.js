@@ -1,4 +1,6 @@
 /*
+    JS is dynamically typed ie variable types are checked at runtime not compile-time, allowing you to assign diff data 
+        types to the same variable as your code executes
 
     Data types, on the basis of how they are stored and accessed, can be categorized into 2 parts(officially):
 
