@@ -34,10 +34,12 @@ let num1, num2 , num3
 
 num1 = 3
 console.log(num1++) // this first prints the og value of num1 and then increments it ie 3
-console.log(num1)  // this prints the incremented values of num1 ie 4
+console.log(num1)  // this prints the incremented value of num1 ie 4
 
 
 num2 = 3
 console.log(++num2) // this increments the value of num2 first and then prints it ie 4
 
+// the postfix increment - returns the og value and then increments it(x++)
+// the prefix increment - increments the og value and then returns it(x--)
 
