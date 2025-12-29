@@ -46,7 +46,7 @@ const hundreds = 1000000
 console.log(Math.random()) // returns a random value between 0 and 1
 console.log(Math.random()*10) // for numbers between 0 and 10
 
-console.log(((Math.random()*10))+1) // ensures 0.04 cases are handled so that 0 is skipped
+console.log(((Math.random()*10))+1) // ensures that 0 is skipped, +1 is done to skip 0
 console.log(Math.floor((Math.random()*10))+1)
 
 const min = 10
